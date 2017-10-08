@@ -1,0 +1,11 @@
+{
+  "MailSettings": {
+    "ToAddress": "butts@soup.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection": "Server=(localdb)\\MSSQLLocalDB;Database=TheWorldDb;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  },
+  "ApiKeys": {
+    "BingMaps": "AkbRIqKVgGX9M160bxqVdZPXrDEkvMZYk1Fqj8Yuhi3s1PLho8kWLv0MPRKArEox"
+  }
+}
